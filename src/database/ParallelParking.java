@@ -24,7 +24,7 @@ public class ParallelParking {
 
     public ParallelParking(Date date, Student student) {
 
-        this.date = date;
+        this.date = date; 
         this.student = student;
     }
 
